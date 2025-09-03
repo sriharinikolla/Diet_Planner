@@ -1,4 +1,4 @@
-# Diet_Planner
+
 # Diet Planner
 
 A Java-based desktop application that helps users plan meals, log daily intake, and track progress towards health goals such as **weight loss**, **muscle gain**, or **maintenance**. The project demonstrates the use of multiple **design patterns** (Strategy, Template, Observer, Proxy, DAO) along with a **GUI** and a **database backend**.
